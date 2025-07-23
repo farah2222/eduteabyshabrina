@@ -1,4 +1,6 @@
-# # 🍵 eduteabyshabrina
+# 🍵 eduteabyshabrina
+
+![npm version](https://img.shields.io/npm/v/eduteabyshabrina)
 
 **Educational toolkit to explore and understand TEA Protocol — made with love by Shabrina 💖**
 
