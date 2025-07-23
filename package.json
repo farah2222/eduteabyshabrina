@@ -1,0 +1,20 @@
+{
+  "name": "eduteabyshabrina",
+  "version": "1.0.0",
+  "description": "Educational toolkit to explore and understand TEA Protocol — made with love by Shabrina.",
+  "main": "index.js",
+  "keywords": [
+    "tea-protocol",
+    "education",
+    "decentralized",
+    "blockchain",
+    "shabrina",
+    "web3",
+    "learning"
+  ],
+  "author": "Farahshabrina",
+  "license": "MIT",
+  "dependencies": {
+    "eduteabyshabrina": "^1.0.0"
+  }
+}
